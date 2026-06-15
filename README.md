@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-electrico/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Roce eléctrico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-electrico/) |
+| **Get License** | [Get License For Roce eléctrico](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-electrico/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, you and me, we got an electric touch
+> You are driving me crazy, I want you so much
+> Tonight the city is ours, we move to the beat
+> Come over right here, let us turn up the heat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
