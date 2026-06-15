@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce eléctrico
+
+This log tracks the cryptographic history and versioning for the song **Roce eléctrico** (roce-electrico).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:54:19.447710 | `v1` | `628adcdb0f1cca830b042d61e07c6e0440840391263c435a42d9f853ddf38580` | `8eeee2b2e416c2b4bfb59413022b2cd3d3667ea6043cbf443d09af702aeba903` | `2026-06-15_roce-electrico-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
